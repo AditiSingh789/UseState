@@ -24,4 +24,4 @@ export default App;
 // 6. useState accepts 1 value(initial value[int,str,bool,object,array etc] to be assigned to variable)and return 2 things currentstate,updating() which actually updates state...
 //thus useState returns a value and function...only this function has ability to update the state...and this function returns new usestate(new val to be used)
 //const [currState,changeState()]=useState(initialState)
-                                            
+       //this is the edited part
